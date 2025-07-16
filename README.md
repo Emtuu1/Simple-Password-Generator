@@ -1,2 +1,11 @@
-# Simple-Password-Generator
-A Python Password Generator
+# Password Generator
+Simple Python script to generate strong, random passwords of customizable length.
+# Ensures minimum length of 6 for better security. Useful for anyone needing quick, reliable passwords.
+
+Usage:
+
+bash
+Copy
+*Edit*
+python password_generator.py
+# Enter the desired password length when prompted, and get a secure password instantly.
